@@ -1,6 +1,7 @@
 class Student
 {
-    int rollno;
+
+    int rollno; // instant vaiables
     int marks;
     String name;
 }
@@ -47,7 +48,10 @@ public class array {
 //        }
 
 
-        // Enhanced for loop array..,multi dimention//jagged array
+
+
+// Enhanced for loop array..,multi dimention//jagged array
+
 
 //     int nums[][]= new int [4][4];
 //
@@ -72,6 +76,8 @@ public class array {
 //        }
 //
 //        // nested loop and multi dimention array..,
+
+
 //        int num1[][]= new int [3][4];
 //        for (int i=0;i<3;i++)
 //        {
